@@ -1,0 +1,6 @@
+[gd_scene format=2]
+
+[node name="Space" type="Spatial"]
+
+[node name="Camera" type="Camera" parent="."]
+fov = 49.66
